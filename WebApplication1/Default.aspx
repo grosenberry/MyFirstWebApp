@@ -25,10 +25,5 @@
     
     </div>
     </form>
-
-    <script src="JavaScript.js">
-
-
-    </script>
 </body>
 </html>

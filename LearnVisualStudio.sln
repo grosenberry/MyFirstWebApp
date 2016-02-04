@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstChallenge", "WebAppl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-006", "CS-006\CS-006.csproj", "{9F1F04E7-7985-4678-804F-7330F9A18716}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-008", "CS-008\CS-008.csproj", "{D8C0CB51-D6ED-4D15-8958-E34C27462142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{F6E3C82B-80D2-4ED4-B3A3-6883CC3E6FD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9F1F04E7-7985-4678-804F-7330F9A18716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F1F04E7-7985-4678-804F-7330F9A18716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F1F04E7-7985-4678-804F-7330F9A18716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C0CB51-D6ED-4D15-8958-E34C27462142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C0CB51-D6ED-4D15-8958-E34C27462142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C0CB51-D6ED-4D15-8958-E34C27462142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C0CB51-D6ED-4D15-8958-E34C27462142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E3C82B-80D2-4ED4-B3A3-6883CC3E6FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E3C82B-80D2-4ED4-B3A3-6883CC3E6FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E3C82B-80D2-4ED4-B3A3-6883CC3E6FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E3C82B-80D2-4ED4-B3A3-6883CC3E6FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
